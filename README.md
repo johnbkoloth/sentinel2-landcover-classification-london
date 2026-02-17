@@ -1,7 +1,7 @@
 # 🌍 Urban Land-Cover Classification – London  
 ### Sentinel-2 + Random Forest (Geospatial AI Project)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/johnbkoloth/sentinel2-landcover-classification-london/blob/main/london_landcover_ml.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johnbkoloth/sentinel2-landcover-classification-london/blob/main/london_landcover_ml.ipynb)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green)
